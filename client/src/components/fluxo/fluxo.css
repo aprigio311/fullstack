@@ -1,0 +1,23 @@
+.fluxograma{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./img/stars2.jpg);
+    background-repeat: no-repeat;
+	background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: 'Arvo', 'Helvetica', 'Arial', sans-serif;
+    text-transform: uppercase;
+}
+
+.fluxograma h1{
+    color: rgb(255, 255, 255);
+    color: #FFFFFF;
+}
+
+.fluxograma img{
+    width: 65px;
+    height: 65px;
+}
